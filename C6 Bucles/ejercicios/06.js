@@ -8,5 +8,5 @@ function tieneTresDigitos(num) {
 tieneTresDigitos(1000);
 tieneTresDigitos(999);
 tieneTresDigitos(784);
-tieneTresDigitos(068);
+tieneTresDigitos(68);
 module.exports = tieneTresDigitos;
