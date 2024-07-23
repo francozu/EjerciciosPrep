@@ -11,3 +11,4 @@ function agregarNumeros(arrayOfNums) {
 numeros = [3,56,7,93,2,6];
 console.log(agregarNumeros(numeros));
 module.exports = agregarNumeros;
+// entender que es el array en la posisicon i y no solo i
