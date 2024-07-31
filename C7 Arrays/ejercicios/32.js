@@ -18,6 +18,7 @@ function esPalindromo(string) {
 // Ejemplos de uso
 console.log(esPalindromo("A man a plan a canal Panama")); // false
 console.log(esPalindromo("Hola Mundo")); // false
-console.log(esPalindromo("madam")); // false
+console.log(esPalindromo("madam")); // true
 console.log(esPalindromo("12321")); // true
 module.exports = esPalindromo;
+//NO LO ENTIENDO
